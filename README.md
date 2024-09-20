@@ -1,4 +1,4 @@
-# Starknet-Community-Platform-Usage
+# Starknet-Community-Platform-Guide
 ![StarknetFoto1](https://github.com/Unicorn1807/Starknet-Community-Platform-Usage/assets/82544940/0d204594-939b-4249-8243-5f8ebfb260c7)
 ## You can look more detailed [here](https://community.starknet.io/)
 `I'll write in some detail below in my own style`📝
